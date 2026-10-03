@@ -19,7 +19,7 @@ Every release's `checksums.txt` carries an ed25519 signature (`checksums.txt.sig
 
 ```
 -----BEGIN PUBLIC KEY-----
-MCowBQYDK2VwAyEA7/4LNkVqVJ91ijlsQ33U7EWKkv+KuoxI3Bb7eNA0xu0=
+MCowBQYDK2VwAyEARJDiKgvZr7U/7S/JyL0SLTsWG/1iS5XdNu8i1XUekHs=
 -----END PUBLIC KEY-----
 ```
 
